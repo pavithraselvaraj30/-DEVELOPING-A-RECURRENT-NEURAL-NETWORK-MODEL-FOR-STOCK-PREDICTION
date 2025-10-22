@@ -1,14 +1,17 @@
 # -DEVELOPING-A-RECURRENT-NEURAL-NETWORK-MODEL-FOR-STOCK-PREDICTION
  DEVELOPING A RECURRENT NEURAL NETWORK MODEL FOR STOCK PREDICTION
 
-AIM
+## AIM
+
 To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
 
-THEORY
+## THEORY
+
 Neural Network Model
 Include the neural network model diagram.
 
-DESIGN STEPS
+## DESIGN STEPS
+
 STEP 1:
 Load and normalize data, create sequences.
 
